@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Senmee. Thanks for your interest :)
 <!--
 **senmeetechin/senmeetechin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
