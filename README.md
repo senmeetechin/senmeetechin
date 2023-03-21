@@ -29,8 +29,6 @@
 
 <picture> <img align="right" src="https://media4.giphy.com/media/SwImQhtiNA7io/giphy.gif?cid=ecf05e47abo0chtypieyj15zvnfjwgybzdgshcleyog13en6&rid=giphy.gif&ct=g" width = 250px></picture>
 
-<br><br>
-
 - 🏫 A `senior` at [Department of Computer Engineering](https://cpe.kmutt.ac.th/) at [King Mongkut's University of Technology Thonburi](https://www.kmutt.ac.th/en/)
 - 💰 The Petchra Pra Jom Klao scholarship recipient in `Distinguished Academic Capabilities`
 - 🤖 `AI Engineer Apprentice` under [Super AI Engineer Season 3](https://superai.aiat.or.th/) 🇹🇭
