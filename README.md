@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senmeetechin" alt="senmeetechin" /></a> </p>
 
-- 🔭 I’m currently working on [a](a)
+<!-- - 🔭 I’m currently working on [a](a)
 
 - 🌱 I’m currently learning **a**
 
@@ -17,7 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
