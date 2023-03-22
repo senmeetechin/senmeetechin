@@ -36,6 +36,7 @@
 - 🗺️ Experienced in `Geospatial data`, `Web scraping`, and `Quantum computing`
 - 💻 A `Frontend Developer` who'll become a Full Stack Developer soon
 - 💪 Also be an `Acitivity Designer`, a `Content Writter` and a `Dog person` 🐶
+- 👀 Here's [MY RESUME](https://drive.google.com/file/d/1O2_-PYcKHs8-_k1rGRppjCCTD_tUXSpV/view?usp=sharing)
 
 
 <!-- - :trophy: 2x `ACPC` Finalist.
